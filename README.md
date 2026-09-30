@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🪄 Açaí do Bruxo
 
-## Getting Started
+A modern and responsive web experience developed for **Açaí do Bruxo**, combining a strong visual identity with product presentation, brand storytelling and a partner-focused digital experience.
 
-First, run the development server:
+The project was designed to transform the brand's visual concept into an engaging website while maintaining performance, responsiveness and a smooth user experience across different devices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🌐 **Live Website:** https://acai-do-bruxo.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Project Overview
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Açaí do Bruxo is a modern web platform created to strengthen the brand's digital presence and present its products through an immersive and visually distinctive interface.
 
-## Learn More
+The website combines product presentation, brand identity and commercial information in a responsive experience designed for both customers and potential business partners.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Key Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🪄 Custom brand-focused interface
+- 🫐 Product presentation and showcase
+- 🤝 Partner-focused experience
+- 📱 Fully responsive design
+- 🖥️ Desktop, tablet and mobile compatibility
+- ✨ Custom visual elements and animations
+- 🧭 Intuitive navigation
+- ⚡ Fast and modern user experience
+- 🎨 Strong visual identity
+- 🌐 Production deployment with Vercel
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Technologies
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js
+- React
+- TypeScript
+- CSS
+- Vercel
+- Git & GitHub
+
+---
+
+## 🎯 Project Goal
+
+The goal of this project was to create a unique digital presence for **Açaí do Bruxo**, combining the personality of the brand with a modern and professional web experience.
+
+The platform was designed not only to showcase the product, but also to communicate the brand concept and provide potential customers and partners with an engaging way to discover Açaí do Bruxo.
+
+---
+
+## 💻 Development
+
+The project was developed with a focus on responsive design, performance, usability and visual consistency.
+
+The interface adapts to different screen sizes while preserving the visual identity and interactive experience of the brand.
+
+The application can continue to evolve as new products, partnerships and business requirements are introduced.
+
+---
+
+## 🔗 Live Project
+
+👉 **https://acai-do-bruxo.vercel.app**
+
+---
+
+## 👨‍💻 Developer
+
+Developed by **Thiago Torres de Oliveira**
+
+Full-Stack Web Developer  
+React • Next.js • TypeScript • Firebase
+
+💼 Portfolio: https://contra.com/thiago_torres_de_olivei_xlmcwrug
